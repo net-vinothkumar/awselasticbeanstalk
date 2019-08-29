@@ -1,2 +1,2 @@
 # awselasticbeanstalk
-running a spring boot application in elastic bean stalk
+Running a spring boot application in elastic bean stalk
