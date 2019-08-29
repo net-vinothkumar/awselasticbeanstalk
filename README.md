@@ -9,6 +9,9 @@ in Apache, nginx, Tomcat, IIS servers.
 
 ![iaas-paas-saas-comparison-1024x759](https://user-images.githubusercontent.com/30971809/63971369-98e46e80-caa6-11e9-98c0-1372c5547f9e.jpg)
 
+![clearbox-flow-00](https://user-images.githubusercontent.com/30971809/63971440-bb768780-caa6-11e9-853c-9281bad61582.png)
+
+
 
 
 
