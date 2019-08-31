@@ -5,6 +5,10 @@ Running a spring boot application in elastic bean stalk
 
 <img width="1311" alt="Screen Shot 2019-08-30 at 22 28 07" src="https://user-images.githubusercontent.com/30971809/64049614-acaad600-cb75-11e9-99cc-8179d1e0ecb8.png">
 
+# What is Autoscaling ?
+![autoscaling](https://user-images.githubusercontent.com/30971809/64060490-8dd82e00-cbcd-11e9-8bf5-18f34693d5bd.png)
+
+
 
 # What is AWS Elastic Beanstalk ?
 AWS Elastic Beanstalk is a PAAS used for deploying and scaling web applications developed using java,.net,php,nodejs 
